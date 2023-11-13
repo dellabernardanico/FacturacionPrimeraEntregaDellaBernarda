@@ -1,0 +1,6 @@
+com\example\repository\ClienteRepository.class
+com\example\models\ClienteModel.class
+com\example\models\DetallesFacturaModel.class
+com\example\models\FacturaModel.class
+com\example\models\ProductoModel.class
+com\example\App.class
